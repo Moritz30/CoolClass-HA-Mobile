@@ -1,0 +1,1 @@
+# CoolClass-HA-Mobile
